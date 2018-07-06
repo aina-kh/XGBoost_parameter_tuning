@@ -1,1 +1,2 @@
 # XGBoost_parameter_tuning
+Nowadays XGBoost is considered to be one of the most advanced algorithms in machine learning which gives highly accurate predictions when tuned properly. Hence, in this project I will concentrate on implementing and parameter tuning this up-to-date algorithm to predict the house prices for [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
